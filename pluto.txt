@@ -1,2 +1,3 @@
 ıt is a planet !
 we changed a line from 2. terminal
+this is a start of the conflict
