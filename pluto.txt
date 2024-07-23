@@ -1,2 +1,2 @@
 ıt is a planet !
-we added a different line in a copy!!!
+we changed a line from 2. terminal
